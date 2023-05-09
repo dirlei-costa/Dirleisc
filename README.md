@@ -1,4 +1,4 @@
-## Olá! Eu sou o Dirlei Costa ✋
+## Olá, eu sou o Dirlei Costa ✋
 📱 Contatos<br>
 
 [![conatato](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dirleisc/)
